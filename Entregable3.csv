@@ -1,0 +1,240 @@
+,region,life_expectancy,gnp_old
+0,Caribbean,78.4,793.0
+1,Southern and Central Asia,45.9,
+2,Central Africa,38.3,7984.0
+3,Caribbean,76.1,
+4,Southern Europe,71.6,2500.0
+5,Southern Europe,83.5,
+6,Caribbean,74.7,
+7,Middle East,74.1,36846.0
+8,South America,75.1,323310.0
+9,Middle East,66.4,1627.0
+10,Polynesia,75.1,
+11,Antarctica,,
+12,Antarctica,,
+13,Caribbean,70.5,584.0
+14,Australia and New Zealand,79.8,392911.0
+15,Western Europe,77.7,206025.0
+16,Middle East,62.9,4100.0
+17,Eastern Africa,46.2,982.0
+18,Western Europe,77.8,243948.0
+19,Western Africa,50.2,2141.0
+20,Western Africa,46.7,2201.0
+21,Southern and Central Asia,60.2,31966.0
+22,Eastern Europe,70.9,10169.0
+23,Middle East,73.0,6097.0
+24,Caribbean,71.1,3347.0
+25,Southern Europe,71.5,
+26,Eastern Europe,68.0,
+27,Central America,70.9,616.0
+28,North America,76.9,2190.0
+29,South America,63.7,7967.0
+30,South America,62.9,804108.0
+31,Caribbean,73.0,2186.0
+32,Southeast Asia,73.6,12460.0
+33,Southern and Central Asia,52.4,383.0
+34,Antarctica,,
+35,Southern Africa,39.3,4935.0
+36,Central Africa,44.0,993.0
+37,North America,79.4,625626.0
+38,Australia and New Zealand,,
+39,Western Europe,79.6,256092.0
+40,South America,75.7,75780.0
+41,Eastern Asia,71.4,917719.0
+42,Western Africa,45.2,10285.0
+43,Central Africa,54.8,8596.0
+44,Central Africa,48.8,2474.0
+45,Central Africa,47.4,2287.0
+46,Polynesia,71.1,
+47,South America,70.3,105116.0
+48,Eastern Africa,60.0,4361.0
+49,Western Africa,68.9,420.0
+50,Central America,75.8,9757.0
+51,Caribbean,76.2,18862.0
+52,Australia and New Zealand,,
+53,Caribbean,78.9,1186.0
+54,Middle East,76.7,8246.0
+55,Eastern Europe,74.5,52037.0
+56,Western Europe,77.4,2102826.0
+57,Eastern Africa,50.8,373.0
+58,Caribbean,73.4,243.0
+59,Nordic Countries,76.5,169264.0
+60,Caribbean,73.2,15076.0
+61,Northern Africa,69.7,46966.0
+62,South America,71.1,19769.0
+63,Northern Africa,63.3,75617.0
+64,Eastern Africa,55.8,755.0
+65,Northern Africa,49.8,
+66,Southern Europe,78.8,532031.0
+67,Baltic Countries,69.5,3371.0
+68,Eastern Africa,45.2,6180.0
+69,Nordic Countries,77.4,119833.0
+70,Melanesia,67.9,2149.0
+71,South America,,
+72,Western Europe,78.8,1392448.0
+73,Nordic Countries,78.4,
+74,Micronesia,68.6,
+75,Central Africa,50.1,5279.0
+76,British Islands,77.7,1296830.0
+77,Middle East,64.5,5924.0
+78,Western Africa,57.4,6884.0
+79,Southern Europe,79.0,
+80,Western Africa,45.6,2383.0
+81,Caribbean,77.0,
+82,Western Africa,53.2,325.0
+83,Western Africa,49.0,272.0
+84,Central Africa,53.6,542.0
+85,Southern Europe,78.4,119946.0
+86,Caribbean,64.5,
+87,North America,68.1,
+88,Central America,66.2,17797.0
+89,South America,76.1,
+90,Micronesia,77.8,1136.0
+91,South America,64.0,743.0
+92,Eastern Asia,79.5,173610.0
+93,Antarctica,,
+94,Central America,69.9,4697.0
+95,Southern Europe,73.7,19300.0
+96,Caribbean,49.2,3107.0
+97,Eastern Europe,71.4,45914.0
+98,Southeast Asia,68.0,215002.0
+99,Southern and Central Asia,62.5,430572.0
+100,Eastern Africa,,
+101,British Islands,76.8,73132.0
+102,Southern and Central Asia,69.7,160151.0
+103,Middle East,66.5,
+104,Nordic Countries,79.4,7474.0
+105,Middle East,78.6,98577.0
+106,Southern Europe,79.0,1145372.0
+107,Caribbean,75.2,6722.0
+108,Middle East,77.4,7051.0
+109,Eastern Asia,80.7,4192638.0
+110,Southern and Central Asia,63.2,23383.0
+111,Eastern Africa,48.0,10241.0
+112,Southern and Central Asia,63.4,1767.0
+113,Southeast Asia,56.5,5670.0
+114,Micronesia,59.8,
+115,Caribbean,70.7,
+116,Eastern Asia,74.4,442544.0
+117,Middle East,76.1,30373.0
+118,Southeast Asia,53.1,1746.0
+119,Middle East,71.3,15129.0
+120,Western Africa,51.0,
+121,Northern Africa,75.5,40562.0
+122,Caribbean,72.3,
+123,Western Europe,78.8,1084.0
+124,Southern and Central Asia,71.8,15091.0
+125,Southern Africa,50.8,1161.0
+126,Baltic Countries,69.1,9585.0
+127,Western Europe,77.1,15519.0
+128,Baltic Countries,68.4,5639.0
+129,Eastern Asia,81.6,5940.0
+130,Northern Africa,69.1,33514.0
+131,Western Europe,78.8,
+132,Eastern Europe,64.5,1872.0
+133,Eastern Africa,55.0,3545.0
+134,Southern and Central Asia,62.2,
+135,Central America,71.5,401461.0
+136,Micronesia,65.5,
+137,Southern Europe,73.8,1915.0
+138,Western Africa,46.7,2453.0
+139,Southern Europe,77.9,3338.0
+140,Southeast Asia,54.9,171028.0
+141,Eastern Asia,67.3,933.0
+142,Micronesia,75.5,
+143,Eastern Africa,37.5,2711.0
+144,Western Africa,50.8,1081.0
+145,Caribbean,78.0,
+146,Caribbean,78.3,2559.0
+147,Eastern Africa,71.0,4186.0
+148,Eastern Africa,37.6,2527.0
+149,Southeast Asia,70.8,97884.0
+150,Eastern Africa,59.5,
+151,Southern Africa,42.5,3384.0
+152,Melanesia,72.8,
+153,Western Africa,41.3,1580.0
+154,Australia and New Zealand,,
+155,Western Africa,51.6,58623.0
+156,Central America,68.7,2023.0
+157,Polynesia,,
+158,Western Europe,78.3,360478.0
+159,Nordic Countries,78.7,153370.0
+160,Southern and Central Asia,57.8,4837.0
+161,Micronesia,60.8,
+162,Australia and New Zealand,77.8,64960.0
+163,Middle East,71.8,16153.0
+164,Southern and Central Asia,61.1,58549.0
+165,Central America,75.5,8700.0
+166,Polynesia,,
+167,South America,70.0,65186.0
+168,Southeast Asia,67.5,82239.0
+169,Micronesia,68.6,
+170,Melanesia,63.1,6328.0
+171,Eastern Europe,73.2,135636.0
+172,Caribbean,75.6,32100.0
+173,Eastern Asia,70.7,
+174,Southern Europe,75.8,102133.0
+175,South America,73.7,9555.0
+176,Middle East,71.4,
+177,Polynesia,74.8,781.0
+178,Middle East,72.4,8920.0
+179,Eastern Africa,72.7,7988.0
+180,Eastern Europe,69.9,34843.0
+181,Eastern Europe,67.2,442989.0
+182,Eastern Africa,39.3,1863.0
+183,Middle East,67.8,146171.0
+184,Northern Africa,56.6,
+185,Western Africa,62.2,4542.0
+186,Southeast Asia,80.1,96318.0
+187,Antarctica,,
+188,Western Africa,76.8,
+189,Nordic Countries,,
+190,Melanesia,71.3,220.0
+191,Western Africa,45.3,858.0
+192,Central America,69.7,11203.0
+193,Southern Europe,81.1,
+194,Eastern Africa,46.2,
+195,North America,77.6,
+196,Central Africa,65.3,
+197,South America,71.4,706.0
+198,Eastern Europe,73.7,19452.0
+199,Southern Europe,74.9,18202.0
+200,Nordic Countries,79.6,227757.0
+201,Southern Africa,40.4,1312.0
+202,Eastern Africa,70.4,539.0
+203,Middle East,68.5,64926.0
+204,Caribbean,73.3,
+205,Central Africa,50.5,1102.0
+206,Western Africa,54.7,1400.0
+207,Southeast Asia,68.6,153907.0
+208,Southern and Central Asia,64.1,1056.0
+209,Polynesia,,
+210,Southern and Central Asia,60.9,2000.0
+211,Southeast Asia,46.0,
+212,Polynesia,67.9,170.0
+213,Caribbean,68.0,5867.0
+214,Northern Africa,73.7,18898.0
+215,Middle East,71.0,189122.0
+216,Polynesia,66.3,
+217,Eastern Asia,76.4,263451.0
+218,Eastern Africa,52.3,7388.0
+219,Eastern Africa,42.9,6887.0
+220,Eastern Europe,66.0,49677.0
+221,Micronesia/Caribbean,,
+222,South America,75.2,19967.0
+223,North America,77.1,8110900.0
+224,Southern and Central Asia,63.7,21300.0
+225,Southern Europe,,
+226,Caribbean,72.3,
+227,South America,73.1,88434.0
+228,Caribbean,75.4,573.0
+229,Caribbean,78.1,
+230,Southeast Asia,69.3,22834.0
+231,Melanesia,60.6,246.0
+232,Polynesia,,
+233,Polynesia,69.2,157.0
+234,Middle East,59.8,5729.0
+235,Southern Europe,72.4,
+236,Southern Africa,51.1,129092.0
+237,Eastern Africa,37.2,3922.0
+238,Eastern Africa,37.8,8670.0
